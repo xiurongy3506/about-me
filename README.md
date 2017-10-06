@@ -1,1 +1,1 @@
-Thus is Xiurong Yu. 
+Xiurong Yu
