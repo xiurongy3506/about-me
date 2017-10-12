@@ -1,17 +1,22 @@
-Xiurong Yu
-xiurongy3506@hstat.org
+## Xiurong Yu
+---
+#### xiurongy3506@hstat.org
 
-High School of Telecommunication Arts and Technology
+_High School of Telecommunication Arts and Technology_  
 
-Xiurong lives in Brooklyn, NY. She is currently taking the Software Engineering class in her high school.
-
-Schedule:
+Xiurong lives in Brooklyn, NY. She is currently taking the Software Engineering class in her high school. Throughout the year, I will be doing projects in SEP class, and it will be linked in my [profolio](https://sites.google.com/a/hstat.org/xiurongy3506sep11/).
+  
+##### Schedule:
 1. English 5
 2. SEP
 3. AP US history
 4. Lunch
-5. GYM
+5. GYM      
 6. AP Calculus AB
 7. AP Chemistry
-8. Study hall/Lab
-9
+8. Study hall/lab
+* Study Hall
+    * Monday-Wednesday
+* Lab
+    * Thursday-Friday
+
