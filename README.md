@@ -18,4 +18,5 @@ Xiurong lives in Brooklyn, NY. She is currently taking the Software Engineering 
     * Monday-Wednesday
 * Lab
     * Thursday-Friday
-
+    
+Reviewed by Alfredo Gutierrez
